@@ -1,0 +1,19 @@
+{
+  "name": "@fnobi/create-zoi",
+  "version": "1.0.0",
+  "description": "create zoi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnobi/create-zoi.git"
+  },
+  "author": "Fujisawa Shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnobi/create-zoi/issues"
+  },
+  "homepage": "https://github.com/fnobi/create-zoi#readme"
+}
